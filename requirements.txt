@@ -1,3 +1,4 @@
+Pillow==9.5.0
 pandas==2.2.1
 numpy==1.26.4
 PyWavelets==1.7.0
